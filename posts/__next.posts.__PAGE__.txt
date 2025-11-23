@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/796e69ae18b2784c.js"],""]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"ELci1jytMb1GBPE0JeOsi","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"max-w-3xl mx-auto py-16 px-6 container spacious","children":[["$","h1",null,{"className":"sr-only","children":"Posts"}],["$","ul",null,{"className":"post-list","children":[["$","li","hello-world",{"className":"post-card flex flex-col sm:flex-row sm:items-center justify-between gap-4","children":[["$","div",null,{"children":[["$","$L2",null,{"href":"/posts/hello-world","className":"post-title block hover:underline","children":"Hello World"}],["$","div",null,{"className":"post-meta","children":"2025-11-23"}],["$","p",null,{"className":"post-description sm:max-w-xl meta-and-desc","children":"My first markdown post"}]]}],["$","div",null,{"className":"text-sm hidden sm:block text-zinc-400","children":"→"}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
